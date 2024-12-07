@@ -11,7 +11,7 @@
 ## Abbreviations and transcription for lab. tasks
 - str-and-algth - Структуры и алгоритмы;
 - lsp - ЯСП;
-- C# - C#;
+- csharp - C#;
 - py - python;
 - web - ВЕБ;
 <!--
