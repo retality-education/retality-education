@@ -4,12 +4,12 @@
 - 💬 Ask me about C#, detective books, DOTA 2 and much more.
 - 🤔 I’m looking for help with frontend.
   
-## Example of naming lab. works:
-## 2_alg&str_laba-2_task-15
-## <num_of_course>_<abbr_of_subject>_laba-<num_of_laba>_task-<num_of_task>
+# Example of naming lab. works:
+### 2_alg-str_laba-2_task-15
+### <num_of_course>_<abbr_of_subject>_laba-<num_of_laba>_task-<num_of_task>
 
 ## Abbreviations and transcription for lab. tasks
-- alg&str - Структуры и алгоритмы;
+- alg-str - Структуры и алгоритмы;
 - lsp - ЯСП;
 - C# - C#;
 - py - python;
