@@ -7,11 +7,11 @@
 ## Abbreviations and transcription for lab. tasks
 ## Example:
 ## 2_alg&str_laba-2_task-15 // <course>_<abbr_of_subject>_laba-<num_of_laba>_task-<num_of_task>
--alg&str - Структуры и алгоритмы;
--lsp - ЯСП;
--C# - C#;
--py - python;
--web - ВЕБ;
+- alg&str - Структуры и алгоритмы;
+- lsp - ЯСП;
+- C# - C#;
+- py - python;
+- web - ВЕБ;
 <!--
 **retality-education/retality-education** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
