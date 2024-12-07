@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with frontend.
   
 ## Example of naming lab. works:
-## 2_alg&str_laba-2_task-15 || <course>_<subj_abbr>_laba-<laba_num>_task-<num_of_task>
+## 2_alg&str_laba-2_task-15 || <asd>_<course>_<subj_abbr>_laba-<laba_num>_task-<num_of_task>
 
 ## Abbreviations and transcription for lab. tasks
 - alg&str - Структуры и алгоритмы;
