@@ -6,7 +6,7 @@
   
 ## Example of naming lab. works:
 ## 2_alg&str_laba-2_task-15
-## <course>_<abbr_of_subject>_laba-<num_of_laba>_task-<num_of_task>
+## <курс>_<abbr_of_subject>_laba-<num_of_laba>_task-<num_of_task>
 
 ## Abbreviations and transcription for lab. tasks
 - alg&str - Структуры и алгоритмы;
