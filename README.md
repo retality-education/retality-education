@@ -1,8 +1,8 @@
 ## Hi there 👋
-- 🌱 I’m currently learning C#, sql, ASP.NET, EF...
-- 🔭 I’m currently working on dynamic quest book on C#.
+- 🌱 I’m currently learning Asp.Net Core, EF Core, Kafka, Serilog, Redis, Docker
+- 🔭 I’m currently working on SOE on C#.
 - 💬 Ask me about C#, detective books, DOTA 2 and much more.
-- 🤔 I’m looking for help with frontend.
+- 🤔 I’m looking for help with backend architecture.
   
 # Example of naming lab. works:
 ### 2_str-and-algth_laba-2_task-15
